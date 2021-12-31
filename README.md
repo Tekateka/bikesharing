@@ -10,10 +10,10 @@
 
 # Purpose
 
-### To creat a line graph displaying the length of time that bikes are checked out for all riders and genders, and the graph can be filtered by hours and gender
-### To creat a heatmap showing the number of bike trips for all riders and genders for each hour of each day of the week
-### To show the number of bike trips for each type of user and gender for each day of the week.
-### To Create a story and report the final presentation. 
+To create a line graph displaying the length of time that bikes are checked out for all riders and genders, and the graph can be filtered by hours and gender.
+To create a heatmap showing the number of bike trips for all riders and genders for each hour of each day of the week.
+To show the number of bike trips for each type of user and gender for each day of the week.
+To Create a story and report the final presentation. 
 
 # Resources 
 
@@ -28,34 +28,35 @@ The above graph shows that majority of the trips are taken within less tnan an h
 
    ![](GenderCheckout.png)
 
-the graph can be filtered by hours and the trend shows that male riders take longer trips than famle and known group.  
+the graph can be filtered by hours and the trend shows that male riders take longer trips than female and known group.  
 
    ![](TripsWeekend.png)
 
-The above heatmap shows the number of bike trips by weekday per hour. In weekdays most bike users ride in the morning from 6-9a.m. and
-4-7p.m in the afternoon. And weekend riders are highest from 7a.m to 8p.m. 
+The above heatmap displays the number of bike trips by weekday per hour. In weekdays most bike users ride in the morning from 6-9a.m. and
+4-7p.m in the afternoon. And weekend riders' bike from 7a.m to 8p.m. 
 
    ![](TripsByGender.png)
 
-This heatmap clearly shows that males are the dominant bike users compared to female and unkown users. 
-Weekend rides are highest from 10a.m. to 7p.m.
+This heatmap clearly shows males are the dominant bike users compared to female and unknown users. 
+Weekend rides are at highest level from 10a.m. to 7p.m.
 
    ![](TripsUser.png)
 
-This map is the User trips by gender be weekday. Subscribers are mostly males and customer users use bike during weekends. 
+This map is the User trips by gender be weekday. Subscribers are mostly males, and the customer users use bike during weekends. 
   
    ![](AugustHours.png)
 
-This bar graph demonstrates the pick hours in the month's of August. This also tell us the maintenace window for bike repair hours. 
+This bar graph demonstrates the pick hours for the month of August. The graph also tells the maintenance window for bike repair by hours. 
 
    ![](StartingLocation.png)
 
-This shows the top starting locations for bike users in New York City .
+This shows the top starting locations for bike users in New York City. Big circles indicate the number of riders started the journey at those locations. 
 
 # Summary
-Based on the data from August 2019, males were the primary users of bike in New York City. Most users use bike for work and back to home that covers 
+Based on the data from August 2019, males were the primary users of bike in New York City. Most users use bike for work and to home that covers 
 from 6-9a.m. and 4-7p.m. 
 
 # Further Analysis: 
-more data is necessary to see the difference and trend across the year, particulalry for winter. 
-Add more data to describe the subscribers 
+- Further data is necessary to see the difference and trend across the year, particularly for winter. 
+- Add more data to describe the subscriber's address to know whether they are visitors or not. 
+- Incorporate weather data to see the effect of weather on riders.  
