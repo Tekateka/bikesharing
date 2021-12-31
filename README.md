@@ -6,14 +6,14 @@
 ![](Dashboard.png)
 
 # Overview of the analysis 
- To demonstrate bike-sharing program to investors that the program is a solid business proposal in Des Moines, New York.  
+ To demonstrate bike-sharing program to investors using different visualization and the program is a solid business proposal in Des Moines, New York.  
 
 # Purpose
 
-To create a line graph displaying the length of time that bikes are checked out for all riders and genders, and the graph can be filtered by hours and gender.
-To create a heatmap showing the number of bike trips for all riders and genders for each hour of each day of the week.
-To show the number of bike trips for each type of user and gender for each day of the week.
-To Create a story and report the final presentation. 
+- To create a line graph displaying the length of time that bikes are checked out for all riders and genders, and the graph can be filtered by hours and gender.
+- To create a heatmap showing the number of bike trips for all riders and genders for each hour of each day of the week.
+- To show the number of bike trips for each type of user and gender for each day of the week.
+- To Create a story and report the final presentation. 
 
 # Resources 
 
@@ -42,7 +42,7 @@ Weekend rides are at highest level from 10a.m. to 7p.m.
 
    ![](TripsUser.png)
 
-This map is the User trips by gender be weekday. Subscribers are mostly males, and the customer users use bike during weekends. 
+This map is the user trips by gender be weekday. Subscribers are mostly males, and the customer users use bike during weekends. 
   
    ![](AugustHours.png)
 
@@ -54,7 +54,8 @@ This shows the top starting locations for bike users in New York City. Big circl
 
 # Summary
 Based on the data from August 2019, males were the primary users of bike in New York City. Most users use bike for work and to home that covers 
-from 6-9a.m. and 4-7p.m. 
+from 6-9a.m. and 4-7p.m. It can conclude that biking is the most popular activity in New York city in summer and it is an alterbative transportation
+method in the city. 
 
 # Further Analysis: 
 - Further data is necessary to see the difference and trend across the year, particularly for winter. 
