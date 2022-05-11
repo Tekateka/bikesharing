@@ -54,7 +54,7 @@ This shows the top starting locations for bike users in New York City. Big circl
 
 # Summary
 Based on the data from August 2019, males were the primary users of bike in New York City. Most users use bike for work and to home that covers 
-from 6-9a.m. and 4-7p.m. It can conclude that biking is the most popular activity in New York city in summer and it is an alterbative transportation
+from 6-9a.m. and 4-7p.m. It can conclude that biking is the most popular activity in New York city in summer and it is an alternative transportation
 method in the city. 
 
 # Further Analysis: 
